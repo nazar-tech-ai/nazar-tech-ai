@@ -20,6 +20,7 @@ I design and build workflows that reduce manual work: chat assistants that answe
 ## 📌 Featured Project
 
 **[Healthcare Patient Guide: WhatsApp RAG Bot](https://github.com/nazar-tech-ai/healthcare-whatsapp-rag)**
+
 A WhatsApp assistant on n8n that answers patients' questions about their own medication plan, using retrieval over uploaded PDF schedules (Pinecone, Gemini, Cohere reranker).
 
 ## 🛠️ Tools
@@ -28,15 +29,17 @@ n8n · Google Gemini · Pinecone · Cohere · WhatsApp Cloud API (Meta) · AI Ag
 
 ## 🎓 Education
 
-<!-- Add your own degrees here, for example:
-| Degree | Institute | Year |GPA / Details
-|Specialization — AI Automation|SEP. FGRF|September 2026| 3-month Course
-
-| Your degree | Your university | Year |
--->
+| Degree / Specialization | Institute | Year | Details |
+|---|---|---|---|
+| Specialization — AI Automation | SEP. FGRF | September 2026 | 3-month Course |
+| Artificial Intelligence using Python | DigiSkills.pk | November 2026 | 3-month Course |
+| Data Analytics and Business Intelligence | DigiSkills.pk | November 2026 | 3-month Course |
+| M.Com (Commerce) | NCBA & E, Lahore | 2015 | 3.18 CGPA |
+| B.Com (Accounts) | Punjab University | 2013 | 797/1500 Marks |
+| D.Com (Accounts) | PBTE Lahore | 2010 | 761/1200 Marks |
 
 ## 📫 Contact
 
-- Email: <!-- hmnazarabbas791@gmail.com -->
-- WhatsApp: <!-- https://wa.me/923163922677 -->
-- LinkedIn: <!--www.linkedin.com/in/nazar-abbas-732bb022a -->
+- Email: hmnazarabbas791@gmail.com
+- WhatsApp: [https://wa.me/923163922677](https://wa.me/923163922677)
+- LinkedIn: [Nazar Abbas](https://www.linkedin.com/in/nazar-abbas-732bb022a)
