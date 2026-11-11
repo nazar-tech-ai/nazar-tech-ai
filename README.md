@@ -1,12 +1,12 @@
 # Hi, I'm Hafiz Muhammad Nazar Abbas 👋
 
-**AI Automation | n8n | WhatsApp & RAG Assistants | Google Apps Script**
+**AI Automation | n8n | WhatsApp & RAG Assistants | Google Apps Script | Excel**
 
 I build automation systems that connect AI, APIs and business tools so repetitive work runs on its own.
 
 ## 🎯 What I Do
 
-I design and build workflows that reduce manual work: chat assistants that answer from a company's own documents, and dashboards and tools on top of Google Sheets.
+I design and build workflows that reduce manual work: chat assistants that answer from a company's own documents, dashboards and tools on top of Google Sheets, and Excel solutions for reporting and reconciliation.
 
 ## 🚀 What I Build
 
@@ -15,6 +15,7 @@ I design and build workflows that reduce manual work: chat assistants that answe
 - 🔍 RAG-based knowledge assistants (answers from your own PDFs)
 - 🧠 AI agents with tools and memory
 - 📈 Google Sheets and Google Apps Script web apps and dashboards
+- 📊 Excel dynamic-array solutions (FILTER, UNIQUE, XMATCH) and reconciliation reports
 - 🔗 API integrations and webhooks
 
 ## 📌 Featured Project
@@ -23,9 +24,17 @@ I design and build workflows that reduce manual work: chat assistants that answe
 
 A WhatsApp assistant on n8n that answers patients' questions about their own medication plan, using retrieval over uploaded PDF schedules (Pinecone, Gemini, Cohere reranker).
 
+## 📂 More Projects
+
+| Project | What it is |
+|---|---|
+| [**Excel FILTER Function Examples**](https://github.com/nazar-tech-ai/excel-filter-function-examples) | Practical FILTER, UNIQUE, XMATCH and SUMIFS examples on a receipt-vs-accounting reconciliation scenario, with a sheet-by-sheet formula guide |
+| [**Excel COUNT Formulas**](https://github.com/nazar-tech-ai/excel-count-formulas) | 27-sheet COUNT formulas practice workbook (COUNTIF, COUNTIFS, SUMPRODUCT, COUNTBLANK, error counting, LAMBDA) with docs in English and Urdu |
+| [**NazarTech AI**](https://github.com/nazar-tech-ai/nazartech-ai) | AI automation agency website (TypeScript) |
+
 ## 🛠️ Tools
 
-n8n · Google Gemini · Pinecone · Cohere · WhatsApp Cloud API (Meta) · AI Agents · RAG · Google Sheets · Google Apps Script · GitHub
+n8n · Google Gemini · Pinecone · Cohere · WhatsApp Cloud API (Meta) · AI Agents · RAG · Google Sheets · Google Apps Script · Excel (Dynamic Arrays) · GitHub
 
 ## 🎓 Education
 
